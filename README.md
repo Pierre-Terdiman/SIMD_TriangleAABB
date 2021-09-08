@@ -5,7 +5,7 @@ Initially posted on my blog: http://www.codercorner.com/blog/?p=1118
 
 This is an online copy of the files published there. Below is a copy of the original readme file.
 
-======================================================================================================
+============================================================================================
 
 A long time ago (around 2001), I helped Tomas Möller optimize a triangle-vs-box, SAT-based overlap test (http://fileadmin.cs.lth.se/cs/Personal/Tomas_Akenine-Moller/code/). At that time I was working on the Opcode library, and such a function was needed to achieve my goals.
 
